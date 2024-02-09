@@ -1,0 +1,7 @@
+{
+  "name": "sercureStoragePOC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
